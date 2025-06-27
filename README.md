@@ -60,7 +60,12 @@ The goal is to **compare and rank players within each role** using multiple key 
   - Based on statistical performance across all roles, selected a balanced and impactful **Final 11** team.
 
 ---
+## Images:
+![{602CA79A-D33C-4F60-9A4E-D24CD1A17008}](https://github.com/user-attachments/assets/e3ebeca5-dcb9-4adb-bac0-4d304e2fe380)
+![{8AC1E92D-8F87-46A8-BEAA-2F1B4E1305D6}](https://github.com/user-attachments/assets/62d6f9e6-971d-416a-919c-f031a2abc08e)
 
+ 
+---
 ## 📈 Key Features
 
 - 🧠 **Role-based segmentation** of players for more meaningful comparisons
@@ -70,13 +75,6 @@ The goal is to **compare and rank players within each role** using multiple key 
 - 🏅 **Final XI recommendation** based purely on performance data
 
 ---
-
-## 📁 Files Included
-
-- `scraper.py` – Python script used to scrape data from ESPN Cricinfo
-- `cricket_data_cleaned.csv` – Final cleaned dataset used in Power BI
-- `Cricket_World_Cup_2023.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
 
 ---
 
@@ -99,5 +97,5 @@ The goal is to **compare and rank players within each role** using multiple key 
 ## 📬 Contact
 
 **Kunal Pathak**  
-Email: kunalpathak@email.com 
+Email: kunalpathak@gmail.com 
 
